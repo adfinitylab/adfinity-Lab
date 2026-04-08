@@ -538,7 +538,7 @@ export default function AdfinityLandingPage() {
               <img
                  src="/logo.png"
                  alt="Adfinity Lab"
-                 className="h-10 w-auto object-contain brightness-110"
+                 className="h-10 w-auto object-contain invert brightness-0"
                  />
             </div>
             <p className="mt-4 max-w-sm text-sm leading-7 text-slate-400">
