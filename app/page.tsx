@@ -161,8 +161,12 @@ export default function AdfinityLandingPage() {
 
       <header className="sticky top-0 z-50 border-b border-slate-200/60 bg-white/80 backdrop-blur">
         <div className="mx-auto flex w-full max-w-7xl items-center justify-between px-6 py-4 lg:px-8">
-          <a href="#" className="text-lg font-semibold tracking-tight text-slate-900">
-            <span className="text-[#2f6db0]">ad</span>finity Lab
+          <a href="#" className="flex items-center">
+           <img
+           src="/logo.png"
+           alt="Adfinity Lab"
+           className="h-10 w-auto object-contain"
+           />
           </a>
 
           <nav className="hidden items-center gap-8 text-sm text-slate-600 md:flex">
@@ -531,7 +535,11 @@ export default function AdfinityLandingPage() {
         <div className="mx-auto grid max-w-7xl gap-12 px-6 py-16 lg:grid-cols-[1.2fr_1fr_1fr_1fr] lg:px-8">
           <div>
             <div className="text-xl font-semibold tracking-tight text-white">
-              <span className="text-[#63a5f2]">ad</span>finity Lab
+              <img
+                 src="/logo.png"
+                 alt="Adfinity Lab"
+                 className="h-10 w-auto object-contain"
+                 />
             </div>
             <p className="mt-4 max-w-sm text-sm leading-7 text-slate-400">
               We turn businesses into powerful brands through intelligent digital marketing systems.
