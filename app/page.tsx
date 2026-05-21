@@ -545,15 +545,37 @@ export default function AdfinityLandingPage() {
               We turn businesses into powerful brands through intelligent digital marketing systems.
             </p>
             <div className="mt-6 flex gap-3">
-              {['f', 'i', 'x', 'in'].map((item) => (
-                <div
-                  key={item}
-                  className="flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-white/5 text-sm font-semibold text-white"
-                >
-                  {item}
-                </div>
-              ))}
-            </div>
+  <a
+    href="https://facebook.com/yourpage"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-white/5 text-sm font-semibold text-white transition hover:bg-white/10"
+  >
+    f
+  </a>
+
+  <a
+    href="https://instagram.com/yourpage"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-white/5 text-sm font-semibold text-white transition hover:bg-white/10"
+  >
+    i
+  </a>
+
+  <div className="flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-white/5 text-sm font-semibold text-white">
+    x
+  </div>
+
+  <a
+    href="https://linkedin.com/in/yourpage"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-white/5 text-sm font-semibold text-white transition hover:bg-white/10"
+  >
+    in
+  </a>
+</div>
           </div>
 
           <div>
