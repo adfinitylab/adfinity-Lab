@@ -582,7 +582,7 @@ export default function AdfinityLandingPage() {
             <h3 className="font-semibold text-white">Contact</h3>
             <ul className="mt-4 space-y-3 text-sm text-slate-400">
               <li>adfinitylab@example.com</li>
-              <li>+977 98123 45678</li>
+              <li>+977 9816771211</li>
               <li>New Baneshwor, Kathmandu</li>
             </ul>
           </div>
