@@ -88,7 +88,7 @@ export default function AdfinityLandingPage() {
     },
     {
       tag: "Web Design",
-      title: "E-commerce Website",
+      title: "Responsive Website",
       result: "+180% Conversion Increase",
       image:
         "https://images.unsplash.com/photo-1559028012-481c04fa702d?auto=format&fit=crop&w=900&q=80",
