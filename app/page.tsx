@@ -546,7 +546,7 @@ export default function AdfinityLandingPage() {
             </p>
             <div className="mt-6 flex gap-3">
   <a
-    href="https://facebook.com/yourpage"
+    href="https://facebook.com/adfinitylab12"
     target="_blank"
     rel="noopener noreferrer"
     className="flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-white/5 text-sm font-semibold text-white transition hover:bg-white/10"
@@ -555,7 +555,7 @@ export default function AdfinityLandingPage() {
   </a>
 
   <a
-    href="https://instagram.com/yourpage"
+    href="https://instagram.com/adfinity.lab/"
     target="_blank"
     rel="noopener noreferrer"
     className="flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-white/5 text-sm font-semibold text-white transition hover:bg-white/10"
@@ -568,7 +568,7 @@ export default function AdfinityLandingPage() {
   </div>
 
   <a
-    href="https://linkedin.com/in/yourpage"
+    href="https://linkedin.com/in/adfinity.lab"
     target="_blank"
     rel="noopener noreferrer"
     className="flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-white/5 text-sm font-semibold text-white transition hover:bg-white/10"
